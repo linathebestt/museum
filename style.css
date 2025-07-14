@@ -1,0 +1,18 @@
+@font-face {
+    font-family:"Roboto";
+    src: url(/Users/linahovin/museum/museum/fonts/Forum,Roboto/Roboto/static/Roboto-Regular.ttf)format("truetype");
+    font-style: normal; 
+    font-weight: normal; 
+}
+
+@font-face {
+    font-family: "Forum" ;
+    src:url("/Users/linahovin/museum/museum/fonts/Forum,Roboto/Forum/Forum-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;  
+}
+
+.asf{
+    font-family: 700px;
+    font-family: "Roboto";
+}
